@@ -1,0 +1,20 @@
+{ 
+    "title": "Requested bill analyses, bills, journal entries",
+    "url": "https://temoshee.github.io/lmdigitalstatic2/",
+    "image": "/lmdigitalstatic2/assets/img/rise_and_progress_mi_david_marvin.jpg", 
+    "description": "The State Law Library frequently scans paper documents to PDF format in response to library patron requests. Rather than delete them we put them here.",
+    "publisher": { 
+        "name": "Library of Michigan, State Law Library", 
+        "url": "https://lmdigital.libraryofmichigan.org/", 
+        "logo": "https://cdm16110.contentdm.oclc.org/customizations/global/images/logo.svg" 
+    },
+    "date_start": "1967",
+    "date_end": "1997",
+    "objects": {
+        "application/pdf": "2136"
+        
+    },
+    "data": "https://temoshee.github.io/lmdigitalstatic2/assets/data/datapackage.json",
+    "last_build_date": "2021-03-18"
+}
+
